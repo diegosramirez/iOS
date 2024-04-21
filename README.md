@@ -1,1 +1,4 @@
 # iOS
+
+`brew install nvm`
+
